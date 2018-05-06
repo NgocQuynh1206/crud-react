@@ -73,8 +73,8 @@ class Layout extends React.Component {
 				padding: '100px 0px',
 				backgroundColor: '#fff',
 			}}>
-
-			<Button type="primary" onClick={this.showModal}>Open</Button>
+			<h1>Celebrities</h1>
+			<Button type="primary" onClick={this.showModal}>Create Celebrities</Button>
 
 
 			<Modal
